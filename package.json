@@ -1,0 +1,39 @@
+{
+  "name": "canvasx",
+  "version": "0.0.1",
+  "maintainers": [
+    {
+      "name": "army8735",
+      "email": "army8735@qq.com"
+    }
+  ],
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/army8735/canvasx.git"
+  },
+  "dependencies": {
+    "homunculus": "~1.3.4"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-es2015": "^6.24.1",
+    "blanket": "^1.2.3",
+    "coveralls": "^3.0.0",
+    "expect.js": "^0.3.1",
+    "gulp": "^3.9.0",
+    "gulp-rimraf": "^0.2.2",
+    "gulp-util": "^3.0.1",
+    "mocha": "^4.1.0",
+    "mocha-lcov-reporter": "^1.3.0",
+    "through2": "^2.0.0"
+  },
+  "main": "./index",
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "author": "army8735 <army8735@qq.com>"
+}
